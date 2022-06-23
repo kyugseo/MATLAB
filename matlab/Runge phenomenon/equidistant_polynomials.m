@@ -1,4 +1,7 @@
-%Q3_a
+% Set the interpolation points to be equidistant on [−1, 1], and n = 10, 15, 25, 40. 
+% Plot the four polynomials (with respect to the four values of n) together with the Runge function.
+%Observe the oscillation at the ends of the interval [−1, 1] and report your plots and observations.
+    
 clear
 clf
 

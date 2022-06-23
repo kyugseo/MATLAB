@@ -1,4 +1,6 @@
-%Q1
+% Set up and plot the Runge function f(x) = 1/{1 + a*x^2} on [−1, 1] in Matlab for a = 30.
+% Report your plot.
+
 clear
 clf
 n=100

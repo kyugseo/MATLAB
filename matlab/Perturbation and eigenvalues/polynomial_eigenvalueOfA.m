@@ -8,7 +8,10 @@
 n=50; 
 r = linspace(-2,2,n);
 eQi= zeros(n,n,100) % for store the Qi value in 3D array
-
+eQiQt=zeros(n,n,100)
+v =ones(1,n-1);
+J = diag(v,1);
+A = 4*J+4*J*J;
 M = 2*rand(n) - 1;
 [W,R] = qr(M); 
 B = W*diag(r)*W';
@@ -21,4 +24,5 @@ ec = eig(C)
 ed = eig(D)
 eA = eig(A)
 eB = eig(B)
+
 

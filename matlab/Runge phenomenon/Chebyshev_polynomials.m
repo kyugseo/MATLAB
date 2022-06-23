@@ -1,4 +1,7 @@
-%Q3_b
+% Set the interpolation points to be Chebyshev on [−1, 1], and n = 10, 15, 25, 40. 
+% Plot the four polynomials (with respect to the four values of n) together with the Runge function. 
+% Observe the results and report your plots and observations.
+
 clear
 clf
 m = 2000;

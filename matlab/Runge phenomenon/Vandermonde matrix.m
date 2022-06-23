@@ -1,4 +1,6 @@
-%Q2_a
+% For n + 1 interpolation points x0, x1, ..., xn, implement the following forms of the interpolating polynomial.
+% Write a Matlab function that solves the interpolation problem by the Vandermonde matrix
+
 n=1000;
 x = linspace(-1,1,n);
 f = @(x) 1 ./ (1 + 30.*x.^2);

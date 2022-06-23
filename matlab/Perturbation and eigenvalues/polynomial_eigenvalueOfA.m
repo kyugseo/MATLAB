@@ -5,7 +5,8 @@
 % Plot all the eigenvalues of the 100 matrices (i.e. A + Qi) on one plot by the command plot(eigenvalues, ’.’). 
 % Report the plot and your observations. z^n with r_{1}, r_{2}, ..., r_{n} as its roots by the Matlab command poly.
 
-n=50;
+n=50; 
+r = linspace(-2,2,n);
 M = 2*rand(n) - 1;
 [W,R] = qr(M); 
 B = W*diag(r)*W';

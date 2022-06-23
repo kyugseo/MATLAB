@@ -1,4 +1,6 @@
-%Q2_c
+% For n + 1 interpolation points x0, x1, ..., xn, implement the following forms of the interpolating polynomial.
+% Write a Matlab function that computes the divided differences and the Newton form of the interpolating polynomial.
+
 x= linspace(-1,1,1000)';
 y =1 ./ (1 + 30.*x.^2);
 xx= 0;

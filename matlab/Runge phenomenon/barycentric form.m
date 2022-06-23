@@ -1,4 +1,5 @@
-%Q2_b
+% For n + 1 interpolation points x0, x1, ..., xn, implement the following forms of the interpolating polynomial.
+% Write a Matlab function that computes barycentric form of the interpolating polynomial.
 
 %for plot
 m = 2000;

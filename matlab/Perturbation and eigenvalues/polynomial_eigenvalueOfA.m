@@ -7,6 +7,8 @@
 
 n=50; 
 r = linspace(-2,2,n);
+eQi= zeros(n,n,100) % for store the Qi value in 3D array
+
 M = 2*rand(n) - 1;
 [W,R] = qr(M); 
 B = W*diag(r)*W';

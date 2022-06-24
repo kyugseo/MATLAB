@@ -1,5 +1,5 @@
 # Programming:
-This repository containing portfolio of data science project and scientific problem solving with programmming languages. 
+This repository containing portfolio of data science project and scientific problems with programmming languages. 
 Following projects are the example of individual projects. 
 
 ### Machine Learning

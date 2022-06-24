@@ -30,6 +30,11 @@ Following projects are the example of individual projects.
   - Applied this algorithm to the social interactions of a group of dolphins
   - The data consist on the frequent interactions between pairs of dolphins in a pod based on their observed behaviour.
 
+*
+*
+*
+
+
 ## OTHER PYTHON PROJECT
 
 ### ASTROPHYSICS 

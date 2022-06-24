@@ -18,7 +18,7 @@ Following projects are the example of individual projects.
 
 
 ### Statistic and mathematical project
-* [A simplified COVID-19 model]():
+* [A simplified COVID-19 model](https://github.com/kyugseo/Programming/blob/ea08b8d2068a8ad65f0763cf97915162696d1612/matlab/covid19analysis):
 -
 -
 -

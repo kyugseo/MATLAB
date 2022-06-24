@@ -70,7 +70,7 @@ def colourbar(sc,ax):
 bands = ['PhotV','PhotB','PhotR']
 for band in bands: # If using the ipython interpreter, type band='PhotV' instead of this line. Change to the band you want 
     # Call the function to read the file
-    hdu, image_data = readImageData('M52_'+band+'.fit')
+    hdu, image_data = readImageData('../mydata/NGC2841_combined/NGC2841_'+band+'.fit')
 
     # Use the ipython interpreter to keep adjusting this line (filter_size and box_size)
     # until you get a relatively smooth sky and sky subtraction.
@@ -83,4 +83,4 @@ for band in bands: # If using the ipython interpreter, type band='PhotV' instead
     hdu.writeto('sky_'+band+'.fit',overwrite=True) # save the hdu as new file
 
     hdu[0].data = image_data_nosky # Re-use the header information from the old hdu, but overwrite the data with the sky-subtracted image
-    hdu.writeto('M52_nosky_'+band+'.fit',overwrite=True) # save the hdu as new file
+    hdu.writeto('NGC2841_nosky_'+band+'.fit',overwrite=True) # save the hdu as new file

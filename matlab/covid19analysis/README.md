@@ -26,4 +26,8 @@ Note that for Covid-19, it is still not clear yet whether recovered people are i
 3. Plot the curve for the number of incident cases with [code](https://github.com/kyugseo/Programming/blob/8d5c4a63488dfda70ad4347bde4bd9dd401d511c/matlab/covid19analysis/q1c.m).
 ![plot](https://github.com/kyugseo/Programming/blob/8d5c4a63488dfda70ad4347bde4bd9dd401d511c/matlab/covid19analysis/Q1c.jpg)
 
-##
+## Time-dependent parameters
+
+We could model the effect of intervention (e.g. social distancing) with data for R0 as follows
+(three scenarios are given): ![](https://github.com/kyugseo/Programming/blob/cdee0443e8f4b4ec10d05227fa98c20b9ed7d1b5/matlab/covid19analysis/Scenarios.png)
+

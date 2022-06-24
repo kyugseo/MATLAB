@@ -3,6 +3,7 @@ This repository containing portfolio of data science project and scientific prob
 Following projects are the example of individual projects. 
 
 ### Machine Learning
+
 * [Neural Networks](https://github.com/kyugseo/Programming/blob/a6df69aff317c2c9edf8ed2ddcb530f7a247cd70/Python/Computational%20Physics/Week9_Michelle%20Moon.ipynb):
   - looked at artificial neural networks (ANNs) for learning complex relationships
   -	Adjusted to the neural net parameters, validated, and tested data sets efficiently.
@@ -18,6 +19,7 @@ Following projects are the example of individual projects.
 
 
 ### Statistic and mathematical project
+
 * [A simplified COVID-19 model](https://github.com/kyugseo/Programming/blob/32e1c2dc81b5643ced490fb84ad52978b5e8ca2a/matlab/covid19analysis/README.md):
   -
   -

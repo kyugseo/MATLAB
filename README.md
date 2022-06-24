@@ -12,12 +12,9 @@ Following projects are the example of individual projects.
   -	Predicted the statistical analysis of the category by using Keras model.
 
 
-* []():
-  -
-  -
-  -
-  -
-
+* [Intro to Random numbers](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Intro%20to%20Random%20numbers.ipynb):
+  - Pseudo-Random Number Generators (PRNGs)
+ 
 
 ## STATISTIC AND MATH PROJECT
 
@@ -30,9 +27,10 @@ Following projects are the example of individual projects.
   - Applied this algorithm to the social interactions of a group of dolphins
   - The data consist on the frequent interactions between pairs of dolphins in a pod based on their observed behaviour.
 
-*
-*
-*
+* [Root Finding/ Extremization Algorithms](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Root%20finding%20and%20Extremization.ipynb)
+
+* [Introducing Error](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Introducing%20Error.ipynb)
+
 
 
 ## OTHER PYTHON PROJECT
@@ -51,4 +49,11 @@ Following projects are the example of individual projects.
 * [Instrumental Colour-Magnitude Diagram of M52](https://github.com/kyugseo/Programming/blob/a9afba10442c1e59f661436eb7953edaf1fd9088/Python/Astrophysics/photometry.py)
   - Made a [plot](https://github.com/kyugseo/Programming/blob/2f28a6e2d91b2a20e29fb5239523fccfd8c07bf5/Python/Astrophysics/cmd_instrumental.png)
   
+
+
+### Physics 
+
+* [MD simulations](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/MD%20simulations.ipynb):
+Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules.
+
 * 

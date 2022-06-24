@@ -6,6 +6,7 @@ Following projects are the example of individual projects.
 ## MACHINE LEARNING
 
 * [Neural Networks](https://github.com/kyugseo/Programming/blob/a6df69aff317c2c9edf8ed2ddcb530f7a247cd70/Python/Computational%20Physics/Week9_Michelle%20Moon.ipynb):
+   
   - looked at artificial neural networks (ANNs) for learning complex relationships
   -	Adjusted to the neural net parameters, validated, and tested data sets efficiently.
   -	Trained an ANN using Keras with the TensorFlow backend. 
@@ -62,4 +63,4 @@ Following projects are the example of individual projects.
 * [MD simulations](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/MD%20simulations.ipynb):
 Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules.
 
-* 
+

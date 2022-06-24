@@ -14,5 +14,9 @@ The population of N individuals is assigned to different compartments, and indiv
 
 Note that for Covid-19, it is still not clear yet whether recovered people are immune to the virus and its variants, and if so, by how much and for how long. 
 
-##DATA: 
-##Implementation
+## DATA
+[BCCDC_COVID19](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/BCCDC_COVID19_Dashboard_Case_Details.csv)
+
+## Implementation
+1. Write [Matlab code](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/SEIR.m) to solve the SEIR equation
+2. Run the code with the following parameters and initial conditions for t = 180 days and report a [plot](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/Q1.jpg) of the S, E, I, R curves.

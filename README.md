@@ -46,7 +46,7 @@ Following projects are the example of individual projects.
 * [Fit the AGN spectrum ](https://github.com/kyugseo/Programming/blob/899b127f69b1062454e7aea004d699fb4a18c6c3/Python/Astrophysics/fitANG.py): 
   - Made a [plot](https://github.com/kyugseo/Programming/blob/899b127f69b1062454e7aea004d699fb4a18c6c3/Python/Astrophysics/SpectrumFit_AGN.png) for the model and fitting function with Numpy and matplotlib. 
   
-* [Image of M52](https://github.com/kyugseo/Programming/blob/0cb03862fc732633d5ef850cdf89f304e2fe6e31/Python/Astrophysics/README_M52.md):
+* [Image of M52](https://github.com/kyugseo/Programming/blob/1a6ab0bf61037dc26c71ec87d6d21395f8fc9725/Python/Astrophysics/README_M52.md):
 
 * [Instrumental Colour-Magnitude Diagram of M52](https://github.com/kyugseo/Programming/blob/a9afba10442c1e59f661436eb7953edaf1fd9088/Python/Astrophysics/photometry.py)
   - Made a [plot](https://github.com/kyugseo/Programming/blob/2f28a6e2d91b2a20e29fb5239523fccfd8c07bf5/Python/Astrophysics/cmd_instrumental.png)

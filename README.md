@@ -43,4 +43,7 @@ Following projects are the example of individual projects.
   
 * [Image of M52](https://github.com/kyugseo/Programming/blob/0cb03862fc732633d5ef850cdf89f304e2fe6e31/Python/Astrophysics/README.md):
 
-
+* [Instrumental Colour-Magnitude Diagram of M52](https://github.com/kyugseo/Programming/blob/a9afba10442c1e59f661436eb7953edaf1fd9088/Python/Astrophysics/photometry.py)
+  - Made a [plot](https://github.com/kyugseo/Programming/blob/2f28a6e2d91b2a20e29fb5239523fccfd8c07bf5/Python/Astrophysics/cmd_instrumental.png)
+  
+* 

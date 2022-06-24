@@ -12,6 +12,10 @@ Following projects are the example of individual projects.
   -	Trained an ANN using Keras with the TensorFlow backend. 
   -	Predicted the statistical analysis of the category by using Keras model.
 
+* [Natural Language Process](https://github.com/kyugseo/Programming/blob/22be95ad245f01b3389e2dcd4ac1b4370870ebc1/Python/Computational%20Physics/Project2_MichelleMoon.ipynb):
+   - Handled classification algorithm, which in this case was a linear support vector machine.
+   - Accuracy on the IMDB dataset: 88.66
+
 
 * [Intro to Random numbers](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Intro%20to%20Random%20numbers.ipynb):
   - Pseudo-Random Number Generators (PRNGs)

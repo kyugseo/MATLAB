@@ -31,3 +31,7 @@ Note that for Covid-19, it is still not clear yet whether recovered people are i
 We could model the effect of intervention (e.g. social distancing) with data for R0 as follows
 (three scenarios are given): ![](https://github.com/kyugseo/Programming/blob/cdee0443e8f4b4ec10d05227fa98c20b9ed7d1b5/matlab/covid19analysis/Scenarios.png)
 
+Let R0 = R0(t), hence, β = β(t) be the time-dependent parameter. According to the model, β is the contact rate, which can be controlled. If we all stayed in a remote log cabin by ourselves, β = R0 = 0; if we practice physical distancing and wear masks when physical distancing is not possible, then R0 might stay below 1; if we hang
+out in bars or at large gatherings, then β and R0 will go through the roof – leading to large numbers of Is, infected and infectious people.
+
+![alt-text-1](https://github.com/kyugseo/Programming/blob/e4bfcbded44e747e9c68e36297ef933f6d128edc/matlab/covid19analysis/Q2-1.jpg "title-1") ![alt-text-2](https://github.com/kyugseo/Programming/blob/e4bfcbded44e747e9c68e36297ef933f6d128edc/matlab/covid19analysis/Q2-1n.jpg "title-2")

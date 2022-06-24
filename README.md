@@ -23,7 +23,7 @@ Following projects are the example of individual projects.
 -
 -
 
-*[Linear Algebra](https://github.com/kyugseo/Programming/blob/f2137fa6affd6be102f78055b3567215c7c5b43f/Python/Computational%20Physics/Linear%20Algebra.ipynb):
+* [Linear Algebra](https://github.com/kyugseo/Programming/blob/f2137fa6affd6be102f78055b3567215c7c5b43f/Python/Computational%20Physics/Linear%20Algebra.ipynb):
 - Solving a system of linear equations for some unknown variables which can be conveniently summarized in matrix.
 - Community structure was built with python library networkx
 - Applied this algorithm to the social interactions of a group of dolphins

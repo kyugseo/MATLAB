@@ -14,6 +14,10 @@ Following projects are the example of individual projects.
 
 * [Intro to Random numbers](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Intro%20to%20Random%20numbers.ipynb):
   - Pseudo-Random Number Generators (PRNGs)
+
+* [Monte Carlo simulations](https://github.com/kyugseo/Programming/blob/705a2b56154c5d1c0915372627099cfed4e75949/Python/Computational%20Physics/Monte%20Carlo%20Methods.ipynb):Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables.
+
+* [Simulated Annealing](https://github.com/kyugseo/Programming/blob/705a2b56154c5d1c0915372627099cfed4e75949/Python/Computational%20Physics/Simulated%20Annealing.ipynb)
  
 
 ## STATISTIC AND MATH PROJECT
@@ -30,6 +34,8 @@ Following projects are the example of individual projects.
 * [Root Finding/ Extremization Algorithms](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Root%20finding%20and%20Extremization.ipynb)
 
 * [Introducing Error](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/Introducing%20Error.ipynb)
+
+* [Partial Differential Equations](https://github.com/kyugseo/Programming/blob/705a2b56154c5d1c0915372627099cfed4e75949/Python/Computational%20Physics/Partial%20differential%20Equation.ipynb): In mathematics, a partial differential equation is an equation which imposes relations between the various partial derivatives of a multivariable function.
 
 
 

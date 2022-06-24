@@ -18,5 +18,12 @@ Note that for Covid-19, it is still not clear yet whether recovered people are i
 [BCCDC_COVID19](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/BCCDC_COVID19_Dashboard_Case_Details.csv)
 
 ## Implementation
-1. Write [Matlab code](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/SEIR.m) to solve the SEIR equation
-2. Run the code with the following parameters and initial conditions for t = 180 days and report a [plot](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/Q1.jpg) of the S, E, I, R curves.
+1. Write [Matlab code](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/SEIR.m) to solve the SEIR equation.
+
+2. Run the code with the following parameters and initial conditions for t = 180 days and report a plot of the S, E, I, R curves.
+![plot](https://github.com/kyugseo/Programming/blob/cbd302b59700e1301cafcbd182f57e64a0f65811/matlab/covid19analysis/Q1.jpg =250x250)
+
+3. Plot the curve for the number of incident cases with [code](https://github.com/kyugseo/Programming/blob/8d5c4a63488dfda70ad4347bde4bd9dd401d511c/matlab/covid19analysis/q1c.m).
+![plot](https://github.com/kyugseo/Programming/blob/8d5c4a63488dfda70ad4347bde4bd9dd401d511c/matlab/covid19analysis/Q1c.jpg =250x250)
+
+##

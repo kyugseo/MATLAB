@@ -2,7 +2,7 @@
 
 ## Calibrate images of M52
 
-By using following [code] (https://github.com/kyugseo/Programming/blob/3cca06b0b293cc41eecc39548923f3ba6013a893/Python/Astrophysics/calibrateM52.py), calibrate the M52 datas, 
+By using following [code](https://github.com/kyugseo/Programming/blob/3cca06b0b293cc41eecc39548923f3ba6013a893/Python/Astrophysics/calibrateM52.py), calibrate the M52 datas, 
 
 ```
 import numpy as np
@@ -58,7 +58,7 @@ for band in bands:
 
 
 ## Align the dithered images of M52
-[code] (https://github.com/kyugseo/Programming/blob/c5ccf14be456ee4e1f7860a0be98742d7d529271/Python/Astrophysics/align.py)
+[code](https://github.com/kyugseo/Programming/blob/c5ccf14be456ee4e1f7860a0be98742d7d529271/Python/Astrophysics/align.py)
 
 
 ```
@@ -145,7 +145,7 @@ for band in bands # Loop through the three bands (TIP: when testing your code, j
 ```
 
 ## Subtract the Sky from the Combined Images
-[code] (https://github.com/kyugseo/Programming/blob/3cca06b0b293cc41eecc39548923f3ba6013a893/Python/Astrophysics/sky_subtract_M52.py)
+[code](https://github.com/kyugseo/Programming/blob/3cca06b0b293cc41eecc39548923f3ba6013a893/Python/Astrophysics/sky_subtract_M52.py)
 
 ```
 import numpy as np

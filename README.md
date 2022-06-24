@@ -27,7 +27,10 @@ Following projects are the example of individual projects.
 
 ## STATISTIC AND MATH PROJECT
 
-* [COVID-19 analysis](https://github.com/kyugseo/Programming/blob/32e1c2dc81b5643ced490fb84ad52978b5e8ca2a/matlab/covid19analysis/README.md):
+* [COVID-19 analysis](https://github.com/kyugseo/Programming/blob/2cb9ea024e4cce47fa35e2e5d7923fd6a6538e78/matlab/covid19analysis/README.md):
+   - plot of the incident case of COVID-19 in british columbia
+   - Adjusted various scenarios to see which parameters and initial conditions in the SEIR model with time-dependent R0, so that the curve of incident cases from the model coincide.
+   
 
 
 * [Linear Algebra](https://github.com/kyugseo/Programming/blob/f2137fa6affd6be102f78055b3567215c7c5b43f/Python/Computational%20Physics/Linear%20Algebra.ipynb):

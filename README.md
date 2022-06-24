@@ -10,7 +10,7 @@ Following projects are the example of individual projects.
 -	Predicted the statistical analysis of the category by using Keras model.
 
 
-*[]():
+* []():
 -
 -
 -

@@ -32,7 +32,7 @@ Java is a set of computer software that provides a system for developing applica
   *  char : single letter or symbol
 
 
- `
+```
 public class main {
 
     public static void main(String[] args) {
@@ -42,8 +42,7 @@ public class main {
         char studentFirstInitial = 'K';
         char studentLastInitial = 'M';
         System.out.println("student's GPA is " +studentGPA+"and she/he is " +studentAge+" years old.")
-`
- 
+```
  
  ### String in Java
   String is reference data type.
@@ -55,8 +54,8 @@ public class main {
 3. Store the input value in the the new variable  (for example, Scanner input =  new Scanner(System.in);)
 4. Update the new data to the old data if needed (for example, studentGPA = input.nextDouble();)
 
-`
- import java.util.Scanner;
+```
+import java.util.Scanner;
  public class main {
 
     public static void main(String[] args) {
@@ -75,8 +74,26 @@ public class main {
         studentGPA = input.nextDouble();
         System.out.print(studnetfirstName +" "+ studentlastName +
                 " now has a GPA of "+studentGPA);
-    }}
+    }
+ }
   
+ ```
  
- 
- 
+ ## Control Flow
+
+```
+import java.util.Scanner;
+public class main {
+
+    public static void main(String[] args) {
+        System.out.println("Pick a number between 1 and 10");
+        Scanner input =  new Scanner(System.in);
+        int inputtedNum = input.nextInt();
+        if (inputtedNum < 5){
+            System.out.println("Enjoy the good luck a friend brings you!");
+        } else {
+            System.out.println(" Your shoe selection will make you happy today!");
+        }
+    }
+}
+```

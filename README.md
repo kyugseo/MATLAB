@@ -3,7 +3,9 @@
 This repository containing portfolio of data science project and scientific problems with programmming languages. 
 Following projects are the example of individual projects. 
 
+
 ## MACHINE LEARNING
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 	![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 * [Neural Networks](https://github.com/kyugseo/Programming/blob/a6df69aff317c2c9edf8ed2ddcb530f7a247cd70/Python/Computational%20Physics/Week9_Michelle%20Moon.ipynb):
    
@@ -26,7 +28,7 @@ Following projects are the example of individual projects.
  
 
 ## STATISTIC AND MATH PROJECT
-
+![MATLAB](https://img.shields.io/badge/Matlab-3670A0?style=for-the-badge&logo=matlab&logoColor=ffdd54) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 * [COVID-19 analysis](https://github.com/kyugseo/Programming/blob/2cb9ea024e4cce47fa35e2e5d7923fd6a6538e78/matlab/covid19analysis/README.md):
    - plot of the incident case of COVID-19 in british columbia
    - Adjusted various scenarios to see which parameters and initial conditions in the SEIR model with time-dependent R0, so that the curve of incident cases from the model coincide.
@@ -50,6 +52,7 @@ Following projects are the example of individual projects.
 ## OTHER PYTHON PROJECT
 
 ### ASTROPHYSICS 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     - Astronomical physics analyzing and visualizing were done by python. 
     - Analyzed the photometry with the calibration and calculation by using Numpy and SciPy.
     - Handled large volumes of astronomical data sets with python library astroML.
@@ -66,6 +69,7 @@ Following projects are the example of individual projects.
 
 
 ### Physics 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 * [MD simulations](https://github.com/kyugseo/Programming/blob/18e37ac46c65274a2f0284e6fa58a314201f46ff/Python/Computational%20Physics/MD%20simulations.ipynb):
 Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules.

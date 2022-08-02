@@ -79,7 +79,7 @@ import java.util.Scanner;
   
  ```
  
- ## Control Flow
+## 3. Control Flow
  
  * if statement
  * while loop
@@ -124,7 +124,7 @@ public class main {
 
 ```
 
-## Creating multiple choice questions:
+### Creating multiple choice questions:
 ```
 
 import java.util.Scanner;
@@ -156,3 +156,6 @@ public class main {
 }
 
 ```
+## 4. Debugging in Java
+
+

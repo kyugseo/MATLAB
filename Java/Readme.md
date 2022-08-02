@@ -123,3 +123,36 @@ public class main {
 }
 
 ```
+
+## Creating multiple choice questions:
+```
+
+import java.util.Scanner;
+public class main {
+
+    public static void main(String[] args) {
+        String question = "How is the weather today?";
+        String choiceOne = "Sunny";
+        String choiceTwo = "Rainy";
+        String choiceThree = "Cloudy";
+        String correctAnswer = choiceTwo;
+
+        System.out.println(question);// write a print statement asking the question:
+        System.out.println(choiceOne+"\n"+choiceTwo+"\n"+choiceThree);// write a print statement giving  the answer option
+
+        Scanner input =  new Scanner(System.in); // Have the user input
+        String userInput = input.next(); // Retrieve the user's input
+
+        if (correctAnswer.equals(userInput)) // If the user's input matchs to correct Answer,
+        {
+            System.out.println("Congratulation! Your answer is correct.");// Then user is correct, and we want to print out congrats message to the user.
+        }
+        else // If the user's input does not match to the correct answer,
+        {
+            System.out.println("The answer is wrong. The correct answer is "+correctAnswer);// Then the user is incorrect, and we want to print out user is incorrect.
+        }
+
+    }
+}
+
+```

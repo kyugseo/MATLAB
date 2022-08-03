@@ -23,7 +23,7 @@ Java is a set of computer software that provides a system for developing applica
     
   - exploring IDE (intergrated development environment)
  
- ## 2. Foundtation of Java
+ ## 2. Foundation of Java
  
  ### Primitive data type
   *  boolean : true / false

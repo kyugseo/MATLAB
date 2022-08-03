@@ -168,9 +168,12 @@ public class main {
 
 ## 5. Function
 
-### Defining function:c
+### Defining function:
 A function is a series of finite steps that accomplish some task.
 
+### parameter in Java : 
+1. find out the total meal price when the listedprice is 15, tiprate is 20 percent and the taxrate is 8 percent of the price.
+2. find out the total meal price when the listedprice is 25, tiprate is 20 percent and the taxrate is 8 percent of the price.
 ```
 public class Main {
 
@@ -188,4 +191,98 @@ public class Main {
     }
 
 }
+```
+### using return type 
+similarly, calculating the total meal price, however this time is for 5 people and find out the individual price for the meal when listed price of the meal is 100, the tip is 0.2 and taxrate is 0.08 of the total.
+
+```
+public class Main {
+
+    public static double calculateTotalMealPrice( double listedMealPrice,double tipRate, double taxRate){
+        double tip = tipRate * listedMealPrice;
+        double tax = taxRate * listedMealPrice;
+        double result = tip + tax + listedMealPrice;
+        return result;
+    }
+
+    public static void main(String[] args) {
+        double groupMealPrice = calculateTotalMealPrice(100,0.2,0.08);
+        System.out.println(groupMealPrice);
+        
+        double individualMealPrice = groupMealPrice/5 ;
+        System.out.println(individualMealPrice);
+    }
+
+}
+```
+
+### using built-in function:
+Example of built-in function:
+ 1. Math.pow 
+ 2. System.out.println();
+ 3. .equals();
+```
+public class Main {
+
+    public static void main(String[] args) {
+        double result = Math.pow(2,5);
+        System.out.println(result);
+    }
+
+}
+
+``` 
+
+### function application:
+Calcualte the salary.
+* input 1: number of hours the employee works per week
+* input 2: amount of money the employee makes per hours
+* input 3: number of vacation days (1 day of vacation = 8 hours unpaid)
+* output: employee's gross annual salary
+! Do not need to worry about tax for this example:
+
+```
+import java.util.Scanner;
+public class Main {
+    public static double calculateYearlySalary(int workHourperWeek, double amountPerHour, int vacationDays){
+        if (workHourperWeek<0){
+            return -1;
+        }
+        if (amountPerHour<0) {
+            return -1;
+        }
+        double totalYearlySalary = workHourperWeek * 52 * amountPerHour ;
+        double unpaid = vacationDays * 8 * amountPerHour;
+        return  totalYearlySalary -unpaid ;
+    }
+    public static void main(String[] args) {
+
+        System.out.println("Type number of hours the employee works per week: ");
+        Scanner input = new Scanner(System.in);
+        int workHourperWeek = input.nextInt();
+        System.out.println("Type amount of money the employee makes per hours: ");
+        double amountPerHour = input.nextDouble();
+        System.out.println("Type number of vacation days: ");
+        int vacationDays = input.nextInt();
+
+        double totalYearlySalary = calculateYearlySalary(workHourperWeek, amountPerHour,vacationDays);
+        System.out.println("The employee's yearly salary is $"+totalYearlySalary);
+    }
+
+}
+
+```
+
+OUTPUT: 
+
+```
+Type number of hours the employee works per week: 
+40
+Type amount of money the employee makes per hours: 
+35
+Type number of vacation days: 
+2
+The employee's yearly salary is $72800.0
+ 
+Process finished with exit code 0
 ```

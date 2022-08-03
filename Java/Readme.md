@@ -167,3 +167,6 @@ public class main {
 
 
 ## 5. Function
+
+### Defining function:c
+A function is a series of finite steps that accomplish some task.

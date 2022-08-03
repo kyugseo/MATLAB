@@ -158,4 +158,12 @@ public class main {
 ```
 ## 4. Debugging in Java
 
+* Syntax error:
+  A syntax error occurs when a programmer writes an incorrect line of code.
+* Logic error?
+  A logic error is a bug in a program that causes it to operate incorrectly, but not to terminate abnormally.
+* Breakpoint:
+  A breakpoint is an intentional stopping point put into a program for debugging purposes
 
+
+## 5. Function

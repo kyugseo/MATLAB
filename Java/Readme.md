@@ -170,3 +170,22 @@ public class main {
 
 ### Defining function:c
 A function is a series of finite steps that accomplish some task.
+
+```
+public class Main {
+
+    public static void calculateTotalMealPrice( double tipRate, double taxRate, double listedMealPrice) {
+        double tip = tipRate * listedMealPrice;
+        double tax = taxRate * listedMealPrice;
+        double result = tip + tax + listedMealPrice;
+
+        System.out.println("Your total is $"+result);
+    }
+
+    public static void main(String[] args) {
+        calculateTotalMealPrice(0.2,0.08,15);
+        calculateTotalMealPrice(0.2,0.08,25);
+    }
+
+}
+```
